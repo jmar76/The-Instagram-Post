@@ -1,0 +1,133 @@
+#principal {
+    background-color:white;
+    width:420px;
+    height:530px;
+    margin: 0 auto; 
+    margin-top: 50px;     
+    display: flex;
+    flex-direction: column;
+}
+body {
+    background-color:black;
+}
+#hijoa {
+    background-color:white;
+    widows:411px;
+    height:60px;
+    margin:2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#hijob {
+    background-color: white;
+    width:420px;
+    height:260px;
+    margin:0px; 
+}
+#hijob img {   
+    width: 420px;
+    height: 260px;             
+}
+#hijoc {
+    background-color:white;
+    width:420px;
+    height:210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#pg {
+    background-color: white;
+    width:420px;
+    height:60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#a1 {
+    background-color: white;
+    width:250px;
+    height:50px;
+    margin: 5px;
+}
+#a1 img{
+    
+    width:50px;
+    height:50px; 
+}
+#a2 {
+    background-color:white;
+    width:32px;
+    height:32px;
+    margin: 5px;
+    padding-top: 10px;
+}
+#a2 img{  
+    width:32px;
+    height:32px;
+}
+#p {
+    background-color: white;
+    width:133px;
+    height:45px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+#c1 {
+    background-color: white;
+    width:40px;
+    height:40px;
+    margin: 2px;
+}
+#c1 img{
+  
+    width:40px;
+    height:40px;
+}
+
+#c2 {
+    background-color:white;
+    width:40px;
+    height:40px;
+    margin: 2px;
+}
+#c2 img{
+    width:40px;
+    height:40px;
+}
+#c3 {
+    background-color:white;
+    width:40px;
+    height:40px;
+    margin: 2px;
+}
+#c3 img{
+    width:40px;
+    height:40px;
+}
+#c4 {
+    background-color: white;
+    width:45px;
+    height:45px;
+    margin: 5px;
+}
+#c4 img{
+    background-color: white;
+    width:45px;
+    height:45px;
+}
+#texto{
+    background-color:white;
+    width:400px;
+    height:150px;
+    margin: 10px;
+    font-family: 'Lucida Sans';
+    text-justify: auto;
+    font-size: 14px;
+}
+
